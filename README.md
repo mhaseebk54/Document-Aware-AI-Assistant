@@ -99,7 +99,7 @@ This ensures reliable and document-grounded responses.
 
 📁 Project Structure
 ├── document.txt
-├── app.py
+├── Document_Aware_AI_Assistant_.ipynb
 ├── README.md
 
 📌 Use Cases
