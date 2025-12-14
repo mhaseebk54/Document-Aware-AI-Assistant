@@ -1,0 +1,17 @@
+Artificial Intelligence (AI) is a field of computer science that focuses on
+creating machines capable of performing tasks that require human intelligence.
+These tasks include learning, reasoning, problem-solving, and decision-making.
+
+AI systems are commonly used in healthcare for medical diagnosis, in education
+for personalized learning systems, and in business for automation and data
+analysis.
+
+Machine Learning is a subset of Artificial Intelligence that enables systems to
+learn from data and improve their performance without being explicitly
+programmed.
+
+Deep Learning is a type of Machine Learning that uses neural networks with
+multiple layers to process complex data such as images and speech.
+
+The main goal of Artificial Intelligence is to develop intelligent systems that
+can assist humans and improve efficiency in various industries.
